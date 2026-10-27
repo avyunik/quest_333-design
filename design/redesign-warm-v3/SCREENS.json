@@ -1,0 +1,397 @@
+{
+  "version": "warm-redesign-v3",
+  "screens": [
+    {
+      "id": "host-01",
+      "role": "host",
+      "order": 1,
+      "slug": "landing",
+      "title": "Стартовый экран",
+      "screenshot": "inputs/host/host_01_landing.jpg",
+      "source_pdf": "inputs/pdf/host-original.pdf",
+      "description_location": "PDF: single artboard, screen #1 top to bottom",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "host-02",
+      "role": "host",
+      "order": 2,
+      "slug": "host-signin",
+      "title": "Вход в панель ведущего",
+      "screenshot": "inputs/host/host_02_host-signin.jpg",
+      "source_pdf": "inputs/pdf/host-original.pdf",
+      "description_location": "PDF: single artboard, screen #2 top to bottom",
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "id": "host-03",
+      "role": "host",
+      "order": 3,
+      "slug": "prologue",
+      "title": "Пролог",
+      "screenshot": "inputs/host/host_03_prologue.jpg",
+      "source_pdf": "inputs/pdf/host-original.pdf",
+      "description_location": "PDF: single artboard, screen #3 top to bottom",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "host-04",
+      "role": "host",
+      "order": 4,
+      "slug": "postomat",
+      "title": "Почтомат 5×5",
+      "screenshot": "inputs/host/host_04_postomat.jpg",
+      "source_pdf": "inputs/pdf/host-original.pdf",
+      "description_location": "PDF: single artboard, screen #4 top to bottom",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "host-05",
+      "role": "host",
+      "order": 5,
+      "slug": "telephone-book",
+      "title": "Телефонная книга",
+      "screenshot": "inputs/host/host_05_telephone-book.jpg",
+      "source_pdf": "inputs/pdf/host-original.pdf",
+      "description_location": "PDF: single artboard, screen #5 top to bottom",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "host-06",
+      "role": "host",
+      "order": 6,
+      "slug": "phone-booth",
+      "title": "Звонок из будки",
+      "screenshot": "inputs/host/host_06_phone-booth.jpg",
+      "source_pdf": "inputs/pdf/host-original.pdf",
+      "description_location": "PDF: single artboard, screen #6 top to bottom",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "host-07",
+      "role": "host",
+      "order": 7,
+      "slug": "shelf",
+      "title": "Полка",
+      "screenshot": "inputs/host/host_07_shelf.jpg",
+      "source_pdf": "inputs/pdf/host-original.pdf",
+      "description_location": "PDF: single artboard, screen #7 top to bottom",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "host-08",
+      "role": "host",
+      "order": 8,
+      "slug": "station-gauges",
+      "title": "Шкалы станции",
+      "screenshot": "inputs/host/host_08_station-gauges.jpg",
+      "source_pdf": "inputs/pdf/host-original.pdf",
+      "description_location": "PDF: single artboard, screen #8 top to bottom",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "host-09",
+      "role": "host",
+      "order": 9,
+      "slug": "road-map",
+      "title": "Карта шоссе",
+      "screenshot": "inputs/host/host_09_road-map.jpg",
+      "source_pdf": "inputs/pdf/host-original.pdf",
+      "description_location": "PDF: single artboard, screen #9 top to bottom",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "host-10",
+      "role": "host",
+      "order": 10,
+      "slug": "picture-puzzle",
+      "title": "Пазл из картинок",
+      "screenshot": "inputs/host/host_10_picture-puzzle.jpg",
+      "source_pdf": "inputs/pdf/host-original.pdf",
+      "description_location": "PDF: single artboard, screen #10 top to bottom",
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "id": "host-11",
+      "role": "host",
+      "order": 11,
+      "slug": "drum-cash-register",
+      "title": "Барабанная касса",
+      "screenshot": "inputs/host/host_11_drum-cash-register.jpg",
+      "source_pdf": "inputs/pdf/host-original.pdf",
+      "description_location": "PDF: single artboard, screen #11 top to bottom",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "host-12",
+      "role": "host",
+      "order": 12,
+      "slug": "fork",
+      "title": "Развилка",
+      "screenshot": "inputs/host/host_12_fork.jpg",
+      "source_pdf": "inputs/pdf/host-original.pdf",
+      "description_location": "PDF: single artboard, screen #12 top to bottom",
+      "size": [
+        1586,
+        992
+      ]
+    },
+    {
+      "id": "host-13",
+      "role": "host",
+      "order": 13,
+      "slug": "finale",
+      "title": "Финал",
+      "screenshot": "inputs/host/host_13_finale.jpg",
+      "source_pdf": "inputs/pdf/host-original.pdf",
+      "description_location": "PDF: single artboard, screen #13 top to bottom",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "player-01",
+      "role": "player",
+      "order": 1,
+      "slug": "lobby",
+      "title": "Лобби",
+      "screenshot": "inputs/player/player_01_lobby.jpg",
+      "source_pdf": "inputs/pdf/player-original.pdf",
+      "description_location": "PDF: single artboard, screen #1 top to bottom",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "player-02",
+      "role": "player",
+      "order": 2,
+      "slug": "prologue",
+      "title": "Пролог «На минуту»",
+      "screenshot": "inputs/player/player_02_prologue.jpg",
+      "source_pdf": "inputs/pdf/player-original.pdf",
+      "description_location": "PDF: single artboard, screen #2 top to bottom",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "player-03",
+      "role": "player",
+      "order": 3,
+      "slug": "postomat-role",
+      "title": "Почтомат 5×5 — выбор роли",
+      "screenshot": "inputs/player/player_03_postomat-role.jpg",
+      "source_pdf": "inputs/pdf/player-original.pdf",
+      "description_location": "PDF: single artboard, screen #3 top to bottom",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "player-04",
+      "role": "player",
+      "order": 4,
+      "slug": "postomat-game",
+      "title": "Почтомат 5×5 — игра",
+      "screenshot": "inputs/player/player_04_postomat-game.jpg",
+      "source_pdf": "inputs/pdf/player-original.pdf",
+      "description_location": "PDF: single artboard, screen #4 top to bottom",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "player-05",
+      "role": "player",
+      "order": 5,
+      "slug": "telephone-book",
+      "title": "Телефонная книга",
+      "screenshot": "inputs/player/player_05_telephone-book.jpg",
+      "source_pdf": "inputs/pdf/player-original.pdf",
+      "description_location": "PDF: single artboard, screen #5 top to bottom",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "player-06",
+      "role": "player",
+      "order": 6,
+      "slug": "phone-booth",
+      "title": "Звонок из будки",
+      "screenshot": "inputs/player/player_06_phone-booth.jpg",
+      "source_pdf": "inputs/pdf/player-original.pdf",
+      "description_location": "PDF: single artboard, screen #6 top to bottom",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "player-07",
+      "role": "player",
+      "order": 7,
+      "slug": "shelf-memorize",
+      "title": "Полка — запоминание",
+      "screenshot": "inputs/player/player_07_shelf-memorize.jpg",
+      "source_pdf": "inputs/pdf/player-original.pdf",
+      "description_location": "PDF: single artboard, screen #7 top to bottom",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "player-08",
+      "role": "player",
+      "order": 8,
+      "slug": "shelf-reconstruct",
+      "title": "Полка — восстановление",
+      "screenshot": "inputs/player/player_08_shelf-reconstruct.jpg",
+      "source_pdf": "inputs/pdf/player-original.pdf",
+      "description_location": "PDF: single artboard, screen #8 top to bottom",
+      "size": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "player-09",
+      "role": "player",
+      "order": 9,
+      "slug": "station-gauges",
+      "title": "Шкалы станции",
+      "screenshot": "inputs/player/player_09_station-gauges.jpg",
+      "source_pdf": "inputs/pdf/player-original.pdf",
+      "description_location": "PDF: single artboard, screen #9 top to bottom",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "player-10",
+      "role": "player",
+      "order": 10,
+      "slug": "road-map",
+      "title": "Карта шоссе",
+      "screenshot": "inputs/player/player_10_road-map.jpg",
+      "source_pdf": "inputs/pdf/player-original.pdf",
+      "description_location": "PDF: single artboard, screen #10 top to bottom",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "player-11",
+      "role": "player",
+      "order": 11,
+      "slug": "picture-puzzle",
+      "title": "Пазл из картинок",
+      "screenshot": "inputs/player/player_11_picture-puzzle.jpg",
+      "source_pdf": "inputs/pdf/player-original.pdf",
+      "description_location": "PDF: single artboard, screen #11 top to bottom",
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "id": "player-12",
+      "role": "player",
+      "order": 12,
+      "slug": "drum-cash-register",
+      "title": "Барабанная касса",
+      "screenshot": "inputs/player/player_12_drum-cash-register.jpg",
+      "source_pdf": "inputs/pdf/player-original.pdf",
+      "description_location": "PDF: single artboard, screen #12 top to bottom",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "id": "player-13",
+      "role": "player",
+      "order": 13,
+      "slug": "fork",
+      "title": "Развилка",
+      "screenshot": "inputs/player/player_13_fork.jpg",
+      "source_pdf": "inputs/pdf/player-original.pdf",
+      "description_location": "PDF: single artboard, screen #13 top to bottom",
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "id": "player-14",
+      "role": "player",
+      "order": 14,
+      "slug": "finale",
+      "title": "Финал",
+      "screenshot": "inputs/player/player_14_finale.jpg",
+      "source_pdf": "inputs/pdf/player-original.pdf",
+      "description_location": "PDF: single artboard, screen #14 top to bottom",
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "id": "player-15",
+      "role": "player",
+      "order": 15,
+      "slug": "results",
+      "title": "Результаты",
+      "screenshot": "inputs/player/player_15_results.jpg",
+      "source_pdf": "inputs/pdf/player-original.pdf",
+      "description_location": "PDF: single artboard, screen #15 top to bottom",
+      "size": [
+        1536,
+        1024
+      ]
+    }
+  ]
+}
