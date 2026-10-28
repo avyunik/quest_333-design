@@ -1,0 +1,493 @@
+{
+  "revision": "story-v2",
+  "kind": "Whole-screen static designs; application code unchanged",
+  "count": 32,
+  "host": 13,
+  "player": 19,
+  "totalPNGBytes": 83033217,
+  "canonicalStory": "STORY.md",
+  "review": "REVIEW.md",
+  "coverage": "All original28 screens + giver + three further route state views. Both route roles shown for stages1 and2; stages3/4 specified in story, not claimed as generated screens.",
+  "images": [
+    {
+      "id": "host-01",
+      "role": "host",
+      "title": "Стартовый экран",
+      "file": "host/host-01-landing.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2417189,
+      "sha256": "67f9fc84f0c3a0aaf50564c7c24882c426744a1d60760b30ec8657905ca57ddb",
+      "previousStyleReference": "design/warm-v3-images/host/host-01-landing.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "host-02",
+      "role": "host",
+      "title": "Вход в панель ведущего",
+      "file": "host/host-02-host-signin.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2579563,
+      "sha256": "c0a67ef7bb1b895aed9a1cbbe2e3bcf8f5225a09d81d7b7fd42aacbb780ef686",
+      "previousStyleReference": "design/warm-v3-images/host/host-02-host-signin.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "host-03",
+      "role": "host",
+      "title": "Пролог",
+      "file": "host/host-03-prologue.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2656774,
+      "sha256": "17cfea7c6b21e9ace0c2ea1973465893bcc3be14452a02bdb7025d5193962e1e",
+      "previousStyleReference": "design/warm-v3-images/host/host-03-prologue.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "host-04",
+      "role": "host",
+      "title": "Почтомат 5×5",
+      "file": "host/host-04-postomat.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2588995,
+      "sha256": "8135b2f39cfb660d9749472a1a7cec49dcecc8a9765e60344ee4618a38e7d8dc",
+      "previousStyleReference": "design/warm-v3-images/host/host-04-postomat.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "host-05",
+      "role": "host",
+      "title": "Телефонная книга",
+      "file": "host/host-05-telephone-book.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2420812,
+      "sha256": "763cbd93cc3578a27947658403cd232f3775655183f78bb3837906ea25b7a3d7",
+      "previousStyleReference": "design/warm-v3-images/host/host-05-telephone-book.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "host-06",
+      "role": "host",
+      "title": "Звонок из будки",
+      "file": "host/host-06-phone-booth.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2583448,
+      "sha256": "c1b04ec6c874ddcc5c9f24256aa36cd4d2db6787391b9079b129c6252ab18356",
+      "previousStyleReference": "design/warm-v3-images/host/host-06-phone-booth.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "host-07",
+      "role": "host",
+      "title": "Полка",
+      "file": "host/host-07-shelf.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2271360,
+      "sha256": "146d708b02807f1b71d476ae2afd9818f209ee8621a0dd225a34d74fa737cb76",
+      "previousStyleReference": "design/warm-v3-images/host/host-07-shelf.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "host-08",
+      "role": "host",
+      "title": "Шкалы станции",
+      "file": "host/host-08-station-gauges.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2612919,
+      "sha256": "fa9b459cdf298aa7ab558b0819c4725553f9f2a19534d501f2dcb98ce1453f05",
+      "previousStyleReference": "design/warm-v3-images/host/host-08-station-gauges.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "host-09",
+      "role": "host",
+      "title": "Карта шоссе",
+      "file": "host/host-09-road-map.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2865489,
+      "sha256": "480da4a8a5b2ed2f74a9cf46a84aa671669019fbed4d7c33e577d860273f06a2",
+      "previousStyleReference": "design/warm-v3-images/host/host-09-road-map.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "host-10",
+      "role": "host",
+      "title": "Пазл из картинок",
+      "file": "host/host-10-picture-puzzle.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2402580,
+      "sha256": "26e1a8994fdb6a5669c2f868c7cff75d75f147ba0c793998a63c88e45bf65070",
+      "previousStyleReference": "design/warm-v3-images/host/host-10-picture-puzzle.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "host-11",
+      "role": "host",
+      "title": "Барабанная касса",
+      "file": "host/host-11-drum-cash-register.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2339902,
+      "sha256": "2ec63354f6bfe9b3c7146812d2779efe241d41b36d4c70b4d291bbddd7e1e282",
+      "previousStyleReference": "design/warm-v3-images/host/host-11-drum-cash-register.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "host-12",
+      "role": "host",
+      "title": "Развилка",
+      "file": "host/host-12-fork.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2693545,
+      "sha256": "864a0e8141008906f663d0dc482a26b3cc78851b9a12df1e83d2f76025325437",
+      "previousStyleReference": "design/warm-v3-images/host/host-12-fork.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "host-13",
+      "role": "host",
+      "title": "Финал",
+      "file": "host/host-13-finale.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2799537,
+      "sha256": "32c9a816c82abfb6411933ff79b467365a789f63370a1fca37cc92aa50265532",
+      "previousStyleReference": "design/warm-v3-images/host/host-13-finale.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "player-01",
+      "role": "player",
+      "title": "Лобби",
+      "file": "player/player-01-lobby.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2674586,
+      "sha256": "d871aa8bdd17dd3f95079a6aceb434d046ac946d5b74cd4299debcebe6bc765d",
+      "previousStyleReference": "design/warm-v3-images/player/player-01-lobby.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "player-02",
+      "role": "player",
+      "title": "Пролог «На минуту»",
+      "file": "player/player-02-prologue.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2502234,
+      "sha256": "b122265497321103d7150a9323c92418597fcd6d90dfb8677afca4a8c96d3391",
+      "previousStyleReference": "design/warm-v3-images/player/player-02-prologue.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "player-03",
+      "role": "player",
+      "title": "Почтомат 5×5 — выбор роли",
+      "file": "player/player-03-postomat-role.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2304209,
+      "sha256": "ea96a5584a5a4aaedbd8949af02057a40004f22d54a7f3a7437c7b9f81916c11",
+      "previousStyleReference": "design/warm-v3-images/player/player-03-postomat-role.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "player-04",
+      "role": "player",
+      "title": "Почтомат 5×5 — игра",
+      "file": "player/player-04-postomat-guesser.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2461129,
+      "sha256": "a8df76e876fb1cfcd21714add1169c9e3960fb22190d6d3fc1d777b768ea50e1",
+      "previousStyleReference": "design/warm-v3-images/player/player-04-postomat-game.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "player-04b",
+      "role": "player",
+      "title": "Почтомат — загадывающий",
+      "file": "player/player-04b-postomat-giver.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2525157,
+      "sha256": "83674e2b4b6591bd24ae144cff5df00103d5a0ee3da8abb1f69db829495f5bf9",
+      "previousStyleReference": "design/warm-v3-images/player/player-04-postomat-game.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "player-05",
+      "role": "player",
+      "title": "Телефонная книга",
+      "file": "player/player-05-telephone-book.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2875321,
+      "sha256": "b73b3f68844ca1b031748f7e73c63e550201a08ff9451f3416ae611570d48eb4",
+      "previousStyleReference": "design/warm-v3-images/player/player-05-telephone-book.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "player-06",
+      "role": "player",
+      "title": "Звонок из будки",
+      "file": "player/player-06-phone-booth.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2583250,
+      "sha256": "e56b0a31903d9a8173af104da25d28b49845ec422e598dc60fed50ea572fe0bf",
+      "previousStyleReference": "design/warm-v3-images/player/player-06-phone-booth.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "player-07",
+      "role": "player",
+      "title": "Полка — запоминание",
+      "file": "player/player-07-shelf-memorize.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2645461,
+      "sha256": "a48809db1b9fd877e89fec9da9c1304bdd70bd97561c36ffea62bf1d1b8a1904",
+      "previousStyleReference": "design/warm-v3-images/player/player-07-shelf-memorize.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "player-08",
+      "role": "player",
+      "title": "Полка — восстановление",
+      "file": "player/player-08-shelf-reconstruct.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2396102,
+      "sha256": "a1453e91db184c649f1b6c01898958cd1e3bb705284b03e0fb3031809ba1c11f",
+      "previousStyleReference": "design/warm-v3-images/player/player-08-shelf-reconstruct.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "player-09",
+      "role": "player",
+      "title": "Шкалы станции",
+      "file": "player/player-09-station-gauges.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2750836,
+      "sha256": "dd44e6657a24cf58a10f4d8bfb4fb93b79fe200dc8b613cb547fe57ffed18d8e",
+      "previousStyleReference": "design/warm-v3-images/player/player-09-station-gauges.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "player-10",
+      "role": "player",
+      "title": "Карта шоссе",
+      "file": "player/player-10-road-map-narrator-01.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2743587,
+      "sha256": "b426a9ff02f87706a8055e6a8f88362129bb67cf4e905ee0110e1f76d9faca8f",
+      "previousStyleReference": "design/warm-v3-images/player/player-10-road-map.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "player-10b",
+      "role": "player",
+      "title": "Карта — команда, шаг 1",
+      "file": "player/player-10b-road-map-team-01.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2780198,
+      "sha256": "bab50ede54f09fdf5c72f51c81769d44d3ffc15bad9674c69f114ca04d0cc4c7",
+      "previousStyleReference": "design/warm-v3-images/player/player-10-road-map.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "player-10c",
+      "role": "player",
+      "title": "Карта — рассказчик, шаг 2",
+      "file": "player/player-10c-road-map-narrator-02.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2632469,
+      "sha256": "1793c3a7dae44ace90cf1c6bb99d5b33c65db4f5b7a474d6b83e426c08feb729",
+      "previousStyleReference": "design/warm-v3-images/player/player-10-road-map.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "player-10d",
+      "role": "player",
+      "title": "Карта — команда, шаг 2",
+      "file": "player/player-10d-road-map-team-02.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2811006,
+      "sha256": "02014faf306fabcd3539a5d068ccc48141a6a2c0653f751e68428dac541386fd",
+      "previousStyleReference": "design/warm-v3-images/player/player-10-road-map.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "player-11",
+      "role": "player",
+      "title": "Пазл из картинок",
+      "file": "player/player-11-picture-puzzle.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2446509,
+      "sha256": "0eb640aeaafd169ca5ca834325fa0d9f77cff97be86b00fbfe27c75179a3b733",
+      "previousStyleReference": "design/warm-v3-images/player/player-11-picture-puzzle.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "player-12",
+      "role": "player",
+      "title": "Барабанная касса",
+      "file": "player/player-12-drum-cash-register.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2446043,
+      "sha256": "73da459086405cafb16f64f0cf5b98cc46a20608efc0f0eafe853c5d9684d004",
+      "previousStyleReference": "design/warm-v3-images/player/player-12-drum-cash-register.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "player-13",
+      "role": "player",
+      "title": "Развилка",
+      "file": "player/player-13-fork.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2561877,
+      "sha256": "77c9b3e67a47a8ee6e5fad8024c4f09122656800b7e653c5af7d3037bacd56c5",
+      "previousStyleReference": "design/warm-v3-images/player/player-13-fork.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "player-14",
+      "role": "player",
+      "title": "Финал",
+      "file": "player/player-14-finale.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2668944,
+      "sha256": "2e1b9f539676bac6e0c604239f2f68ad1e6c5d20290b56b2ad965f8249752448",
+      "previousStyleReference": "design/warm-v3-images/player/player-14-finale.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    },
+    {
+      "id": "player-15",
+      "role": "player",
+      "title": "Результаты",
+      "file": "player/player-15-results.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2992186,
+      "sha256": "23af8ac156e48660d91a1f9db04f20f86e89af546ad5e8eeb629664946915f7d",
+      "previousStyleReference": "design/warm-v3-images/player/player-15-results.png",
+      "creation": "New whole-screen image generated from previous art direction and user revised mechanics/story; reviewed for role separation and narrative continuity"
+    }
+  ]
+}
