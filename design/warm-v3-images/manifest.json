@@ -1,0 +1,459 @@
+{
+  "kind": "Whole-screen raster design concepts, not application screenshots or separate UI assets",
+  "count": 28,
+  "host": 13,
+  "player": 15,
+  "totalBytes": 68671801,
+  "references": "Uploaded visual references.zip; original PDFs and SCREENS.json",
+  "notes": "Generative text and tiny details require final editorial review before implementation. No production logic is implied by static artwork.",
+  "images": [
+    {
+      "id": "host-01",
+      "title": "Стартовый экран",
+      "role": "host",
+      "file": "host/host-01-landing.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2373895,
+      "sha256": "59c3af5740bdb83ed3fb55c51af70e2fd281a4280ba5834c4122629de1a25575",
+      "structureSource": "design/redesign-warm-v3/inputs/host/host_01_landing.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/host-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "host-02",
+      "title": "Вход в панель ведущего",
+      "role": "host",
+      "file": "host/host-02-host-signin.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2445652,
+      "sha256": "a2e8460e7070b4752ce189e2410926eede90ceca3551e927377130e32997b45b",
+      "structureSource": "design/redesign-warm-v3/inputs/host/host_02_host-signin.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/host-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "host-03",
+      "title": "Пролог",
+      "role": "host",
+      "file": "host/host-03-prologue.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2437979,
+      "sha256": "1b95103335c447ee07351e9b5180d42364cc685faea8c2da2deb5f3cc21cf7b5",
+      "structureSource": "design/redesign-warm-v3/inputs/host/host_03_prologue.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/host-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "host-04",
+      "title": "Почтомат 5×5",
+      "role": "host",
+      "file": "host/host-04-postomat.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2472359,
+      "sha256": "81f804ea5c9e0daa699ca2f9fd752143f4b46cc57b6265aed6e494cda22b4eb9",
+      "structureSource": "design/redesign-warm-v3/inputs/host/host_04_postomat.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/host-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "host-05",
+      "title": "Телефонная книга",
+      "role": "host",
+      "file": "host/host-05-telephone-book.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2393612,
+      "sha256": "aef1e0e2e38cefb6bdb14ca9d918eeb3ee9da060670e691bbbacdca33ca4d45e",
+      "structureSource": "design/redesign-warm-v3/inputs/host/host_05_telephone-book.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/host-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "host-06",
+      "title": "Звонок из будки",
+      "role": "host",
+      "file": "host/host-06-phone-booth.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2543172,
+      "sha256": "4474677770890845b568e8fb4939ed9a11d4e4aedaf1d692fc9eb8abbb7700e4",
+      "structureSource": "design/redesign-warm-v3/inputs/host/host_06_phone-booth.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/host-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "host-07",
+      "title": "Полка",
+      "role": "host",
+      "file": "host/host-07-shelf.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2330833,
+      "sha256": "afffa19690d1d4df6552719c528b0c019224fea513c7866a81667f26fcc96d99",
+      "structureSource": "design/redesign-warm-v3/inputs/host/host_07_shelf.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/host-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "host-08",
+      "title": "Шкалы станции",
+      "role": "host",
+      "file": "host/host-08-station-gauges.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2531632,
+      "sha256": "e0831a60acee0ab4ae17507a678bb72a7c52d18ec52d83f8552c68cf1fd74d87",
+      "structureSource": "design/redesign-warm-v3/inputs/host/host_08_station-gauges.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/host-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "host-09",
+      "title": "Карта шоссе",
+      "role": "host",
+      "file": "host/host-09-road-map.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2695141,
+      "sha256": "f6a93b66e516a269eb7947b6d46ea6e3bf8a94617371457c1c8a60a82563a1c3",
+      "structureSource": "design/redesign-warm-v3/inputs/host/host_09_road-map.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/host-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "host-10",
+      "title": "Пазл из картинок",
+      "role": "host",
+      "file": "host/host-10-picture-puzzle.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2398032,
+      "sha256": "0e444f88ba985d7dc2d8c8e47e4e628350c9ab520f3c1ac2c50c2cebf81147e3",
+      "structureSource": "design/redesign-warm-v3/inputs/host/host_10_picture-puzzle.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/host-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "host-11",
+      "title": "Барабанная касса",
+      "role": "host",
+      "file": "host/host-11-drum-cash-register.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2230134,
+      "sha256": "489f046a29963e4be439bd69253b1b80ece8bc1fc382040d41d65e9529e36b16",
+      "structureSource": "design/redesign-warm-v3/inputs/host/host_11_drum-cash-register.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/host-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "host-12",
+      "title": "Развилка",
+      "role": "host",
+      "file": "host/host-12-fork.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2744685,
+      "sha256": "d4349268c278f04278a14ee7e3188b24bf4a9f1320a97501434528cf6ea38a4c",
+      "structureSource": "design/redesign-warm-v3/inputs/host/host_12_fork.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/host-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "host-13",
+      "title": "Финал",
+      "role": "host",
+      "file": "host/host-13-finale.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2544224,
+      "sha256": "4bfa081b69aa3c939270a9012e41d01f8582187dc9a03b5d98f7a0e1f34e41f8",
+      "structureSource": "design/redesign-warm-v3/inputs/host/host_13_finale.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/host-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "player-01",
+      "title": "Лобби",
+      "role": "player",
+      "file": "player/player-01-lobby.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2526027,
+      "sha256": "9764fc44e9e224397aaa2ea16022840b135078105534d6a12c2ee70a2088f914",
+      "structureSource": "design/redesign-warm-v3/inputs/player/player_01_lobby.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/player-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "player-02",
+      "title": "Пролог «На минуту»",
+      "role": "player",
+      "file": "player/player-02-prologue.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2370889,
+      "sha256": "c4ac36419e1f1b9caae2eccc3767062414af81dea120475c94abdc4791264e10",
+      "structureSource": "design/redesign-warm-v3/inputs/player/player_02_prologue.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/player-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "player-03",
+      "title": "Почтомат 5×5 — выбор роли",
+      "role": "player",
+      "file": "player/player-03-postomat-role.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2013203,
+      "sha256": "7f736748227002a241fdd6ffe5d1f11f9ad9a5717d2ded227e2eb054e6d6ab96",
+      "structureSource": "design/redesign-warm-v3/inputs/player/player_03_postomat-role.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/player-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "player-04",
+      "title": "Почтомат 5×5 — игра",
+      "role": "player",
+      "file": "player/player-04-postomat-game.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2332265,
+      "sha256": "d81475a90bc88c508e77046a6b6f91e8e012e55ad9be3e6853b3c80cee4d8da4",
+      "structureSource": "design/redesign-warm-v3/inputs/player/player_04_postomat-game.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/player-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "player-05",
+      "title": "Телефонная книга",
+      "role": "player",
+      "file": "player/player-05-telephone-book.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2654199,
+      "sha256": "c7aa2337abdfadce6db7a6af8c260946fcbf174b87b9d5d62c9200a2eb6b90cd",
+      "structureSource": "design/redesign-warm-v3/inputs/player/player_05_telephone-book.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/player-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "player-06",
+      "title": "Звонок из будки",
+      "role": "player",
+      "file": "player/player-06-phone-booth.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2530978,
+      "sha256": "b00810e6411959bc020e30b4eb0c8beeb9ae9115afbed8293a97d967b6d9ca41",
+      "structureSource": "design/redesign-warm-v3/inputs/player/player_06_phone-booth.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/player-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "player-07",
+      "title": "Полка — запоминание",
+      "role": "player",
+      "file": "player/player-07-shelf-memorize.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2567786,
+      "sha256": "9fe3a632de27f96954a87ebcc50af25309a2026530f137dd30e3c070f2307d1f",
+      "structureSource": "design/redesign-warm-v3/inputs/player/player_07_shelf-memorize.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/player-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "player-08",
+      "title": "Полка — восстановление",
+      "role": "player",
+      "file": "player/player-08-shelf-reconstruct.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2390074,
+      "sha256": "c8a074ed21a2021b6e89c32aaa831b68d594ee31a9c101514bec58d2827f099e",
+      "structureSource": "design/redesign-warm-v3/inputs/player/player_08_shelf-reconstruct.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/player-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "player-09",
+      "title": "Шкалы станции",
+      "role": "player",
+      "file": "player/player-09-station-gauges.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2551107,
+      "sha256": "be749abb0c27296caa3b6c10e1a6500c5a4fccf7461b846a3e6ccb2336df82bd",
+      "structureSource": "design/redesign-warm-v3/inputs/player/player_09_station-gauges.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/player-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "player-10",
+      "title": "Карта шоссе",
+      "role": "player",
+      "file": "player/player-10-road-map.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2494978,
+      "sha256": "65007369295e9df65132a541dc8b70256cf6ae19a5d8f29e66d045bd6f9d23d2",
+      "structureSource": "design/redesign-warm-v3/inputs/player/player_10_road-map.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/player-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "player-11",
+      "title": "Пазл из картинок",
+      "role": "player",
+      "file": "player/player-11-picture-puzzle.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2369837,
+      "sha256": "650681e16b6a1323f08a09cdcc4fa76e7712962ab615445142d92af515679f35",
+      "structureSource": "design/redesign-warm-v3/inputs/player/player_11_picture-puzzle.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/player-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "player-12",
+      "title": "Барабанная касса",
+      "role": "player",
+      "file": "player/player-12-drum-cash-register.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2195896,
+      "sha256": "9ad33075b533e05737e43ef125f9d55640a05e60e71cf01a6733e6a29ce33ffb",
+      "structureSource": "design/redesign-warm-v3/inputs/player/player_12_drum-cash-register.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/player-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "player-13",
+      "title": "Развилка",
+      "role": "player",
+      "file": "player/player-13-fork.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2523626,
+      "sha256": "310b58fb15ad885665dd70aac23b5d4171c909f774c68b8cb7b28e573964ffda",
+      "structureSource": "design/redesign-warm-v3/inputs/player/player_13_fork.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/player-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "player-14",
+      "title": "Финал",
+      "role": "player",
+      "file": "player/player-14-finale.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2393770,
+      "sha256": "444f08ffc45b30d8f58be544268dcad7351971ff449a19663df9234c194a2771",
+      "structureSource": "design/redesign-warm-v3/inputs/player/player_14_finale.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/player-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    },
+    {
+      "id": "player-15",
+      "title": "Результаты",
+      "role": "player",
+      "file": "player/player-15-results.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2615816,
+      "sha256": "90bac4edf1d392ad6f8e5422d3b1ae69039b4331ae2f3e6416af5305fb0de3eb",
+      "structureSource": "design/redesign-warm-v3/inputs/player/player_15_results.jpg",
+      "descriptionSource": "design/redesign-warm-v3/inputs/pdf/player-original.pdf",
+      "creation": "AI-generated whole-screen design image guided by uploaded visual references, then visual review and selected corrections"
+    }
+  ]
+}
