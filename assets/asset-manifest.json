@@ -1,0 +1,265 @@
+{
+  "assets": [
+    {
+      "id": "book-svg",
+      "file": "public/assets/warm-redesign-v3/book.svg",
+      "source": "Original SVG paths created for Warm V3",
+      "purpose": "Reusable product/UI pictogram",
+      "screens": [
+        "all"
+      ],
+      "dimensions": [
+        48,
+        48
+      ],
+      "bytes": 246,
+      "format": "svg",
+      "rights": "Original project vector, no third-party source",
+      "status": "ready",
+      "fallback": null
+    },
+    {
+      "id": "bottle-svg",
+      "file": "public/assets/warm-redesign-v3/bottle.svg",
+      "source": "Original SVG paths created for Warm V3",
+      "purpose": "Reusable product/UI pictogram",
+      "screens": [
+        "all"
+      ],
+      "dimensions": [
+        48,
+        48
+      ],
+      "bytes": 234,
+      "format": "svg",
+      "rights": "Original project vector, no third-party source",
+      "status": "ready",
+      "fallback": null
+    },
+    {
+      "id": "lamp-svg",
+      "file": "public/assets/warm-redesign-v3/lamp.svg",
+      "source": "Original SVG paths created for Warm V3",
+      "purpose": "Reusable product/UI pictogram",
+      "screens": [
+        "all"
+      ],
+      "dimensions": [
+        48,
+        48
+      ],
+      "bytes": 237,
+      "format": "svg",
+      "rights": "Original project vector, no third-party source",
+      "status": "ready",
+      "fallback": null
+    },
+    {
+      "id": "radio-svg",
+      "file": "public/assets/warm-redesign-v3/radio.svg",
+      "source": "Original SVG paths created for Warm V3",
+      "purpose": "Reusable product/UI pictogram",
+      "screens": [
+        "all"
+      ],
+      "dimensions": [
+        48,
+        48
+      ],
+      "bytes": 290,
+      "format": "svg",
+      "rights": "Original project vector, no third-party source",
+      "status": "ready",
+      "fallback": null
+    },
+    {
+      "id": "route-svg",
+      "file": "public/assets/warm-redesign-v3/route.svg",
+      "source": "Original SVG paths created for Warm V3",
+      "purpose": "Reusable product/UI pictogram",
+      "screens": [
+        "all"
+      ],
+      "dimensions": [
+        48,
+        48
+      ],
+      "bytes": 257,
+      "format": "svg",
+      "rights": "Original project vector, no third-party source",
+      "status": "ready",
+      "fallback": null
+    },
+    {
+      "id": "station-mobile-webp",
+      "file": "public/assets/warm-redesign-v3/station-mobile.webp",
+      "source": "Generated with image_gen: cinematic isolated vintage petrol station, navy night, amber lighting, wet asphalt, no text or UI",
+      "purpose": "Environment/background/poster/postcard",
+      "screens": [
+        "all"
+      ],
+      "dimensions": [
+        768,
+        512
+      ],
+      "bytes": 80326,
+      "format": "webp",
+      "rights": "AI-generated project asset; review downstream terms",
+      "status": "ready",
+      "fallback": "station.jpg"
+    },
+    {
+      "id": "station-jpg",
+      "file": "public/assets/warm-redesign-v3/station.jpg",
+      "source": "Generated with image_gen: cinematic isolated vintage petrol station, navy night, amber lighting, wet asphalt, no text or UI",
+      "purpose": "Environment/background/poster/postcard",
+      "screens": [
+        "all"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "bytes": 335645,
+      "format": "jpg",
+      "rights": "AI-generated project asset; review downstream terms",
+      "status": "ready",
+      "fallback": null
+    },
+    {
+      "id": "station-webp",
+      "file": "public/assets/warm-redesign-v3/station.webp",
+      "source": "Generated with image_gen: cinematic isolated vintage petrol station, navy night, amber lighting, wet asphalt, no text or UI",
+      "purpose": "Environment/background/poster/postcard",
+      "screens": [
+        "all"
+      ],
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "bytes": 308070,
+      "format": "webp",
+      "rights": "AI-generated project asset; review downstream terms",
+      "status": "ready",
+      "fallback": "station.jpg"
+    },
+    {
+      "id": "tin-svg",
+      "file": "public/assets/warm-redesign-v3/tin.svg",
+      "source": "Original SVG paths created for Warm V3",
+      "purpose": "Reusable product/UI pictogram",
+      "screens": [
+        "all"
+      ],
+      "dimensions": [
+        48,
+        48
+      ],
+      "bytes": 248,
+      "format": "svg",
+      "rights": "Original project vector, no third-party source",
+      "status": "ready",
+      "fallback": null
+    },
+    {
+      "id": "association-0",
+      "file": "assets/private/0.svg",
+      "source": "Original geometric SVG created for prototype",
+      "purpose": "Private association fixture; serve via authorized API only",
+      "screens": [
+        "host-09",
+        "player-10"
+      ],
+      "dimensions": [
+        480,
+        240
+      ],
+      "bytes": 215,
+      "format": "svg",
+      "rights": "Original project vector",
+      "status": "ready"
+    },
+    {
+      "id": "association-1",
+      "file": "assets/private/1.svg",
+      "source": "Original geometric SVG created for prototype",
+      "purpose": "Private association fixture; serve via authorized API only",
+      "screens": [
+        "host-09",
+        "player-10"
+      ],
+      "dimensions": [
+        480,
+        240
+      ],
+      "bytes": 236,
+      "format": "svg",
+      "rights": "Original project vector",
+      "status": "ready"
+    },
+    {
+      "id": "association-2",
+      "file": "assets/private/2.svg",
+      "source": "Original geometric SVG created for prototype",
+      "purpose": "Private association fixture; serve via authorized API only",
+      "screens": [
+        "host-09",
+        "player-10"
+      ],
+      "dimensions": [
+        480,
+        240
+      ],
+      "bytes": 241,
+      "format": "svg",
+      "rights": "Original project vector",
+      "status": "ready"
+    },
+    {
+      "id": "association-3",
+      "file": "assets/private/3.svg",
+      "source": "Original geometric SVG created for prototype",
+      "purpose": "Private association fixture; serve via authorized API only",
+      "screens": [
+        "host-09",
+        "player-10"
+      ],
+      "dimensions": [
+        480,
+        240
+      ],
+      "bytes": 213,
+      "format": "svg",
+      "rights": "Original project vector",
+      "status": "ready"
+    },
+    {
+      "id": "association-4",
+      "file": "assets/private/4.svg",
+      "source": "Original geometric SVG created for prototype",
+      "purpose": "Private association fixture; serve via authorized API only",
+      "screens": [
+        "host-09",
+        "player-10"
+      ],
+      "dimensions": [
+        480,
+        240
+      ],
+      "bytes": 204,
+      "format": "svg",
+      "rights": "Original project vector",
+      "status": "ready"
+    }
+  ],
+  "missing": [
+    "intro-video",
+    "finale-video",
+    "booth-audio",
+    "realistic-shelf-products",
+    "additional-interiors",
+    "production-associations"
+  ],
+  "totalBytes": 726662
+}

@@ -1,0 +1,16 @@
+{
+  "shots": 112,
+  "viewports": 4,
+  "screens": 28,
+  "overflow": [],
+  "errors": [],
+  "scenarios": [
+    "book invalid/valid",
+    "shelf show/hide/place/check",
+    "cash attempt count",
+    "role confirmation and clue",
+    "drawing/team answer/host accept",
+    "vote/tie/new round",
+    "finale preview/results"
+  ]
+}
